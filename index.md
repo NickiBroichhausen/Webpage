@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<link href="styles/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -13,6 +12,8 @@
 <button type="submit">einchecken</button>
 
 </form>
+
+<script src="scripts/pwdCheck.js"></script>
 </body>
 
 </html>
