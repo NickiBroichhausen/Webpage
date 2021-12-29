@@ -1,12 +1,11 @@
 var myButton = document.querySelector('button');
 
 myButton.onclick = function() {
-    if (document.getElementById("pwd").value == "hallo"){
-        document.getElementById("text").textContent = "richtig";
-    window.open('homepage.htm', 'Broichhausen', 'height=500,width=500');
+    if (document.getElementById("pwd").value == "28.07.2001"){
+        document.getElementById("text").textContent = "richtig, Sie sollten in kuerze weitergeleitet werden";
+         window.open('homepage.htm');
     }
     else{
-        document.getElementById("text").textContent = "falsch";
+        document.getElementById("text").textContent = "falsches Passwort";
     }
-    window.open('homepage.htm', 'Broichhausen', 'height=500,width=500');
 }

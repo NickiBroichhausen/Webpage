@@ -5,15 +5,12 @@
 
 <body>
 
-<label>Mein Geburtstag: 
+<label>Mein Geburtstag(TT.MM.JJJJ): 
 <input id="pwd" type="password">
 </label>
-<p id="text">bla</p>
-
+<p id="text"></p>
 
 <button>einchecken</button>
-
-<a href="homepage.htm">hier</a>
 
 <script src="scripts/pwdCheck.js"></script>
 </body>
