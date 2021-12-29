@@ -7,9 +7,8 @@
 <body>
 <form>
 <label>Mein Geburtstag: 
-<input id="pwd" type="password"></input>
+<input id="pwd" type="password">
 </label>
-<label id="pwdText"><label>
 <p id="text"></p>
 <button type="submit">einchecken</button>
 
