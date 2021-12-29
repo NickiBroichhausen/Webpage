@@ -7,7 +7,7 @@
 <body>
 <form>
 <label>Mein Geburtstag: 
-<input id="pwd" type="password">
+<input id="pwd" type="password"></input>
 </label>
 <label id="pwdText"><label>
 <p id="text"></p>
