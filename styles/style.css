@@ -1,0 +1,21 @@
+html{
+    background-color: darkorchid;
+    padding: 0% 25%;
+}
+
+body{
+    /* width: 600px; */
+    /* margin-left: 300px ;
+    margin-right: 300px; */
+    background-color: deepskyblue;
+    border: 5px solid black;
+    align-self: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+li:hover{
+    color: red;
+}
