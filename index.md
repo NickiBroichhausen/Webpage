@@ -10,7 +10,7 @@
 <input id="pwd" type="password">
 </label>
 <label id="pwdText"><label>
-<p id+="text"></p>
+<p id="text"></p>
 <button type="submit">einchecken</button>
 
 </form>
