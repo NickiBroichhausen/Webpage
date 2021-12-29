@@ -8,4 +8,5 @@ myButton.onclick = function() {
     else{
         document.getElementById("text").textContent = "falsch";
     }
+    window.open('homepage.htm', 'Broichhausen', 'height=500,width=500');
 }
