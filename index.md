@@ -9,7 +9,7 @@
 <input id="pwd" type="password">
 </label>
 <p id="text">bla</p>
-<button">einchecken</button>
+<button>einchecken</button>
 </form>
 
 <a href="homepage.htm">hier</a>
