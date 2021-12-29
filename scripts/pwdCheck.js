@@ -8,4 +8,5 @@ myButton.onclick = function() {
     else{
         document.getElementById("text").textContent = "falsch";
     }
+    document.getElementById("text").textContent = "tst";
 }

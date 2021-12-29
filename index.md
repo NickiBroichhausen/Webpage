@@ -9,7 +9,7 @@
 <label>Mein Geburtstag: 
 <input id="pwd" type="password">
 </label>
-<p id="text"></p>
+<p id="text">bla</p>
 <button type="submit">einchecken</button>
 
 </form>
