@@ -6,8 +6,11 @@
 
 <body>
 <form>
-<input id="pwd" type="password"><label for="pwd">Mein Geburtstag</label>
-<p></p>
+<label>Mein Geburtstag: 
+<input id="pwd" type="password">
+</label>
+<label id="pwdText"><label>
+<p id+="text"></p>
 <button type="submit">einchecken</button>
 
 </form>
