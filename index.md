@@ -1,23 +1,15 @@
 <html>
 
 <head>
-<title>Broichhausen</title>
 <link href="styles/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-<h1>Homepage</h1>
-HELLO WORLD!
-<ol>
-    <li><a href="index.md">Home</a></li>
-    <li>Arduino</li>
-    <li><a href="motorrad.htm">Motorrad</a></li>
-    <li>KOS Script</li>
-    <li>sonstiges</li>
-</ol>
-<p>efef</p>
-<button>Drueck mich</button>
-<script src="scripts/main.js"></script>
+<form>
+<input id="pwd" type="password"><label for="pwd">Mein Geburtstag</label>
+<button type="submit">einchecken</button>
+
+</form>
 </body>
 
 </html>
