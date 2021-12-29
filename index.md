@@ -9,9 +9,9 @@
 <h1>Homepage</h1>
 HELLO WORLD!
 <ol>
-    <li><a href="https://www.google.de/?hl=de">Homepage</a></li>
+    <li><a href="index.md">Home</a></li>
     <li>Arduino</li>
-    <li>Motorrad</li>
+    <li><a href="motorrad.htm">Motorrad</a></li>
     <li>KOS Script</li>
     <li>sonstiges</li>
 </ol>
