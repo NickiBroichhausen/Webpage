@@ -6,6 +6,5 @@ body{
 }
 
 div{
-    align-self: center;
-    align-content: center;
+   margin: auto;
 }
