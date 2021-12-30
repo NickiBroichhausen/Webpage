@@ -20,7 +20,8 @@ ol {
   }
 li{
     float: left;
-    padding-left: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
     background-color: rgb(175, 175, 175);
     border: 2px solid rgb(73, 73, 73);
     display: block;
