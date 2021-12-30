@@ -1,4 +1,4 @@
-if (localStorage.getItem('authorized') == isAuthorized) {
+if (localStorage.getItem('authorized') == 'isAuthorized') {
     var myName = prompt('Bitte geben Sie Ihren Namen ein.');
 }
 else {
