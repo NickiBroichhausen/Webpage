@@ -7,7 +7,7 @@ body{
     /* width: 600px; */
     /* margin-left: 300px ;
     margin-right: 300px; */
-    background-color: rgb(162, 219, 238);
+    background-color: rgb(140, 245, 231);
     border: 5px solid black;
     align-self: center;
 }
@@ -35,7 +35,6 @@ li:hover{
     display: block;
 }
 
-/* img{
-    max-width: 100%;
-    height: auto;
-} */
+img{
+    align-self: center;
+}
