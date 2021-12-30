@@ -1,7 +1,7 @@
-if(localStorage.getItem('authorized')){
+if (localStorage.getItem('authorized')) {
 
 }
-else{
+else {
     window.location.replace('pwdInsert.htm');
 }
 
