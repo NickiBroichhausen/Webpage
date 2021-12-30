@@ -22,7 +22,7 @@ ol {
 li{
     float: left;
     padding-left: 5px;
-    border: gray;
+    border: 1px solid gray;
     display: block;
 }
 li:hover{
