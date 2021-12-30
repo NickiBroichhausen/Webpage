@@ -11,7 +11,7 @@ body{
 
 ol {
     list-style-type: none;
-    margin: 0;
+    margin: 1;
     padding: 1;
     overflow: hidden;
     background-color: rgb(73, 73, 73);
