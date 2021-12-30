@@ -4,7 +4,13 @@ body{
 }
 
 img{
-    align-self: center;
+    display: block;
+    margin-left: auto;
+    width: 200px;
+    height: auto;
+}
+
+video{
     display: block;
     margin-left: auto;
     width: 200px;
