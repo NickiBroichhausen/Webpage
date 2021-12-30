@@ -14,7 +14,7 @@ ol {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: gainsboro;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
