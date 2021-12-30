@@ -5,7 +5,7 @@ if (!sessionStorage.getItem('authorized') == 'isAuthorized') {
 else{
     prompt('Bitte gebwdwdwddfailllln Namen ein.');
 }
-prompt('Bitte geben Sie Ihren Namen ein.');
+prompt(sessionStorage.getItem('authorized'));
 
 
 
