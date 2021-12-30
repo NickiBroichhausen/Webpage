@@ -3,7 +3,7 @@ var myButton = document.querySelector('button');
 myButton.onclick = function() {
     if (document.getElementById("pwd").value == "28.07.2001"){      //jaja ... das ist nicht sicher, ist mir aber egal :)
         document.getElementById("text").textContent = "richtig, Sie sollten in kuerze weitergeleitet werden";
-        window.open('homepage.htm');
+        localStorage.setItem('authorized', true);
     }
     else{
         document.getElementById("text").textContent = "falsches Passwort";
