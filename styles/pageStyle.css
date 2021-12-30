@@ -6,16 +6,19 @@ body{
     align-self: center;
 }
 
-img{
+video img{
     display: block;
-    margin-left: auto;
+    margin-left: 5px;
     width: 200px;
     height: auto;
+    float: right;
+    margin-right: 5px;
 }
 
-video{
+
+/* video{
     display: block;
     margin-left: auto;
     width: 200px;
     height: auto;
-}
+} */
