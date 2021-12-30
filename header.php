@@ -7,3 +7,5 @@
     <li>Website</li>
     <li>Rechtliches</li>
 </ol>
+
+<!-- github Pages doestn support php, nice -->
