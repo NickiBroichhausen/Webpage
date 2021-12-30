@@ -1,13 +1,13 @@
 html{
-    background-color: darkorchid;
-    padding: 0% 25%;
+    background-color: black;
+    /* padding: 0% 25%; */
 }
 
 body{
     /* width: 600px; */
     /* margin-left: 300px ;
     margin-right: 300px; */
-    background-color: deepskyblue;
+    background-color: rgb(162, 219, 238);
     border: 5px solid black;
     align-self: center;
 }
