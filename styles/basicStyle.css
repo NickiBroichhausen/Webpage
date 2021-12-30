@@ -3,3 +3,7 @@ body{
     border: 5px solid black;
     align-self: center;
 }
+
+div{
+    align-self: center;
+}
