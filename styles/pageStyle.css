@@ -1,3 +1,6 @@
+html{
+    overflow: hidden;
+}
 body{
     background-color: rgb(106, 243, 253);
     align-self: center;
