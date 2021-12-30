@@ -12,7 +12,7 @@
     <div>
         <img src="images/profil.jpg" alt="Profil Bild" width=auto height=30%>
     </div>
-    <?php include "./header.html" ?>
+    <?php include './header.html'; ?>
 
 <div>
 <p>efef</p>
