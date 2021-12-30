@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<title>Broichhausen</title>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div>
+        <img src="images/profil.jpg" alt="Profil Bild" width=auto height=30%>
+    </div>
+    <?php include "./header.html" ?>
+
+<div>
+<p>efef</p>
+<p>efef</p>
+<p>efef</p>
+<button>Drueck mich</button>
+</div>
+<script src="scripts/main.js"></script>
+</body>
+
+</html>
