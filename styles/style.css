@@ -4,16 +4,9 @@ html{
 }
 
 body{
-    /* width: 600px; */
-    /* margin-left: 300px ;
-    margin-right: 300px; */
-    background-color: rgb(140, 238, 245);
+    background-color: black;
     border: 5px solid black;
     align-self: center;
-}
-
-h1 {
-    text-align: center;
 }
 
 ol {
@@ -31,7 +24,7 @@ li{
     padding-left: 5px;
 }
 li:hover{
-    background-color: green;
+    background-color: rgb(6, 255, 159);
     display: block;
 }
 
