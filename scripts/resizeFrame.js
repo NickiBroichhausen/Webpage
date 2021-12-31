@@ -5,5 +5,4 @@ frame.onload = onLoadFunction;
 function onLoadFunction() {
   frame.style.height =
   frame.contentWindow.document.body.scrollHeight + 'px';
-  prompt('swdwdwddw');
 }
