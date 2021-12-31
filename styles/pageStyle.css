@@ -2,7 +2,7 @@ html{
     overflow: hidden;
 }
 body{
-    background-color: rgb(106, 243, 253);
+    background-color: rgba(106, 243, 253, 0.493);
     align-self: center;
 }
 
