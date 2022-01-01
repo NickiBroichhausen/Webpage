@@ -5,14 +5,15 @@ html{
 
 body{
     background-color: black;
-    border: 5px solid black;
     align-self: center;
 }
 
 ol {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
     /* overflow: hidden; */
-    background-color: rgb(73, 73, 73);
+    background-color: rgb(255, 255, 255);
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
@@ -21,19 +22,17 @@ li a{
     float: left;
     padding-left: 3px;
     padding-right: 3px;
-    background-color: rgb(175, 175, 175);
-    border: 1px solid rgb(73, 73, 73);
+    background-color: rgb(255, 253, 253);
+    border: 1px solid rgb(0, 0, 0);
     display: block;
     text-decoration: none;
 }
-li a.hover{
+li hover{
     background-color: rgb(159, 255, 218);
     display: block;
 }
 
-
 img{
-    align-self: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
