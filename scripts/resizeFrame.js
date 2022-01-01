@@ -1,5 +1,5 @@
 
-// var frame = document.getElementById('frame');
+var frame = document.getElementById('frame');
 
 // frame.onload = onLoadFunction;
 // function onLoadFunction() {
@@ -7,7 +7,7 @@
 //   frame.contentWindow.document.body.scrollHeight + 'px';
 // }
 
-document.onreadystatechange = function () {
+frame.onreadystatechange = function () {
   if (document.readyState == "complete") {
     alert("ffeff");
     frame.style.height =
