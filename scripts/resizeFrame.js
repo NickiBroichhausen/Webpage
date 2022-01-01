@@ -12,7 +12,7 @@ frame.onreadystatechange = function () {
   if (frame.readyState == "complete") {
     alert("ffeff");
     frame.style.height =
-    frame.contentWindow.document.body.scrollHeight + 'px';s
+    frame.contentWindow.document.body.scrollHeight + 'px';
   }
 }
 alert("starts");
