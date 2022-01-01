@@ -28,7 +28,7 @@ li a{
     text-decoration: none;
     font-size: 22px;
 }
-li hover{
+li a:hover{
     background-color: rgb(159, 255, 218);
     display: block;
 }
