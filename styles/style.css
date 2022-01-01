@@ -16,25 +16,21 @@ ol {
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
-    text-decoration: none;
   }
-li{
+li a{
     float: left;
     padding-left: 3px;
     padding-right: 3px;
     background-color: rgb(175, 175, 175);
-    border: 2px solid rgb(73, 73, 73);
+    border: 1px solid rgb(73, 73, 73);
     display: block;
     text-decoration: none;
 }
-li:hover{
+li a.hover{
     background-color: rgb(159, 255, 218);
     display: block;
 }
-li:active{
-    background-color: rgb(6, 255, 159);
-    display: block;
-}
+
 
 img{
     align-self: center;
