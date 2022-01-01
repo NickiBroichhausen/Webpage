@@ -1,17 +1,11 @@
 
 var frame = document.getElementById('frame');
 
-// frame.onload = onLoadFunction;
-frame.onreadystatechange = onLoadFunction;
+frame.onload = onLoadFunction;
 function onLoadFunction() {
-  // frame.style.height =
-  // frame.contentWindow.document.body.scrollHeight + 'px';
-  alert("aaa");
-  if (frame.readyState == "complete") {
-    alert("ffeff");
-    frame.style.height =
-    frame.contentWindow.document.body.scrollHeight + 'px';
-  }
+  frame.style.height =
+  frame.contentWindow.document.body.scrollHeight + 'px';
+  alert(frame.readyState);
 }
 
 frame.onreadystatechange = function () {
