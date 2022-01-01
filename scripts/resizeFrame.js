@@ -8,7 +8,8 @@ var frame = document.getElementById('frame');
 // }
 
 frame.onreadystatechange = function () {
-  if (document.readyState == "complete") {
+  alert("aaa");
+  if (frame.readyState == "complete") {
     alert("ffeff");
     frame.style.height =
     frame.contentWindow.document.body.scrollHeight + 'px';s
