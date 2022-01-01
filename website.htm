@@ -11,7 +11,28 @@
         <p>efef</p>
         <button>Drueck mich</button>
     </div>
-
+    <h2>Password security</h2>
+    <p>I am using Java Script to determin if a localStorage variable has the right value.
+        If not, the current site is replaced by the site to enter the password. If the correct password has been
+        entered,
+        the localStorage variable gets updated. From this point forward, all Pages can be used until the browser is
+        closed.
+        This systeme is, of course, not very safe but it still works in the majority of cases.</p>
+    <p></p>
+    <h2>Menu bar</h2>
+    <p>In order to be able to change the content of the page but still use the same menu bar on every subpage, Im using
+        an iframe.
+        Clicking on links in the menu bar targets the iframe and only changes the content of the iframe.
+    </p>
+    <h2>Resize iframe</h2>
+    <p>
+        Because I want to use a sticky menu bar on the main page, the ifame should not have a scrollbar, instead the
+        parent page of the iframe shoul have it.
+        Therefore Im using Java Script to resize the iframe in an onload function. Unfortunatly, this doesnt work with
+        videos,
+        because they change their size after the onload fires. To tackle this problem, Im using onreadreadystatechange.
+        All of that doesnt make any sense, but I wanted to try it anyway.
+    </p>
     <script src="scripts/pwdCheck.js"></script>
     <script src="scripts/main.js"></script>
 </body>
