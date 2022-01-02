@@ -32,7 +32,12 @@
         videos, because they change their size after the onload fires.
         In theory, this problem is quit easy to solve, but Chrome is just a bit anoying.
         To tackle this problem, I tried onreadreadystatechange, wich also doesnt work with Chrome.
-        Then .addEventListener("DOMContentLoaded", bla, false);
+        Then .addEventListener("DOMContentLoaded", bla, false);.
+        Then video.onloadeddata(), wich means the video is definitly loaded.
+        In the end, I accepted that it doesnt matter at wich point I resize the iframe, the video will still change its size after the resize.
+        Then I just changed the video height from auto to a fixed value, wich looks very bad and I dont like it.
+        Because  the resize function doesnt work on my local machine (cross-origin error) and I have to upload my code every time before I can test it
+        (wich takes several minutes), I decided to not waste any more time on this.
         All of that doesnt make any sense, but I wanted to try it anyway.
     </p>
     <script src="scripts/pwdCheck.js"></script>
