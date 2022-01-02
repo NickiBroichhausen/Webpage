@@ -7,7 +7,7 @@ function onLoadFunction() {
   frame.contentWindow.document.body.scrollHeight + 'px';
 }
 
-document.addEventListener("DOMContentLoaded", function(){ onLoadFunction(); }, false);
+// document.addEventListener("DOMContentLoaded", function(){ onLoadFunction(); }, false);
 
 // frame.onreadystatechange = function () {
 //   alert("aaa");

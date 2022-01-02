@@ -9,8 +9,8 @@ body{
 img{
     display: block;
     margin-left: 5px;
-    width: 300px;
-    height: auto;
+    width: auto;
+    height: 350px;
     float: right;
     margin-right: 5px;
 }
@@ -19,8 +19,8 @@ img{
 video{
     display: block;
     margin-left: 5px;
-    width: 300px;
-    height: auto;
+    width: auto;
+    height: 350px;
     float: right;
     margin-right: 5px;
 }
