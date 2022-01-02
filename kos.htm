@@ -11,16 +11,17 @@
             <td>
                 <h3>Automated Launch Script</h3>
                 This Script is able the launch rockets from any body into a stable and circular orbit
-                with as little as possible deltaV.  
+                with as little as possible deltaV.
                 <p>Features:
-                    <ol>
-                        <li>detection of launch clamps, to start the launch if on launchpad (manual start is also possible)</li>
-                        <li>gravity turn</li>
-                        <li>automatic staging</li>
-                        <li>fairing deploy at safe altitude</li>
-                        <li>automatic solar/antenna deploy</li>
-                        <li>"quality of life" improvements like timewarp and map view</li>
-                    </ol>
+                <ol>
+                    <li>detection of launch clamps, to start the launch if on launchpad (manual start is also possible)
+                    </li>
+                    <li>gravity turn</li>
+                    <li>automatic staging</li>
+                    <li>fairing deploy at safe altitude</li>
+                    <li>automatic solar/antenna deploy</li>
+                    <li>"quality of life" improvements like timewarp and map view</li>
+                </ol>
                 </p>
             </td>
             <td>
@@ -30,9 +31,26 @@
                 </video>
             </td>
         </tr>
+        <tr>
+            <td>
+                <h3>Transfer Window</h3>
+                This script takes two structures as parameters and calculates the period of a hohmann transfer orbit by
+                using keplers 3rd law
+                and uses this time to determin the transfer phase angle. Then it timewarps until this phase angle is
+                reached.
+                The current angle between the structures is determined by there xyz-coordinates and the scalar product.
+                The script always searches the common body of both structures. This means, if the start and target are
+                two moons
+                of different planets, the common body is the sun and the script calculates the transfer window between
+                the planets.
+            </td>
+            <td>
+                video coming soon
+            </td>
+        </tr>
     </table>
+
     <script src="scripts/pwdCheck.js"></script>
-    WIP...
 </body>
 
 </html>
