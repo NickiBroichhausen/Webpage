@@ -1,4 +1,4 @@
-if (localStorage.getItem('authorized') == null) {
+if (sessionStorage.getItem('authorized') == null) {
     window.location.replace('pwdInsert.htm');
 }
 
