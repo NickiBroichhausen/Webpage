@@ -1,0 +1,19 @@
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
+
+[[main]]
+  name = "CV"
+  pageRef = "cv"
+  weight = 30
+
+[[footer]]
+  name = "Contact"
+  url = "mailto:Nicki_Broichhausen@outlook.com"
+  weight = 10

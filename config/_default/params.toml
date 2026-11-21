@@ -1,0 +1,34 @@
+colorScheme = "slate"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = false
+enableCodeCopy = false
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = false
+  showAuthor = false
+  showReadingTime = false
+  showWordCount = false
+  showPagination = false
+  showBreadcrumbs = false
+  showTableOfContents = false
+  showHeadingAnchors = false
+
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  groupByYear = false

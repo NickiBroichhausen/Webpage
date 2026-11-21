@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicki Broichhausen</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nicki Broichhausen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Nicki Broichhausen</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Education&#xA;    &lt;div id=&#34;education&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;M.Sc. Satellite Technology and Advanced Space Systems&lt;/strong&gt;, Julius-Maximilians-Universität Würzburg (03/2024 – 09/2026)&lt;br&gt;&#xA;Final grade 1.0 (German scale, ≈ 100/100). A competitive program in the Elite Network of Bavaria that combines computer science, electrical engineering and mechanical engineering. Coursework in computer vision, robotics, machine learning and control engineering.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;PRELUDE: satellite project with JAXA&#xA;    &lt;div id=&#34;prelude-satellite-project-with-jaxa&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Nihon University, Tokyo (05/2025 – 10/2025)&lt;/p&gt;&#xA;&lt;p&gt;A joint satellite project with JAXA, carried out during a semester abroad in a CubeSat laboratory. I was responsible for the assembly and verification of a high-frequency plasma measurement instrument (soldering, wiring, bus communication analysis) and led the satellite&amp;rsquo;s onboard software development for data acquisition and processing, advancing the system from TRL 1 to TRL 5.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;My research interests are robust visual perception and state estimation for robots in difficult environments, with a focus on space. My current work is on real-time stereo visual odometry for micro aerial vehicles (MAVs).&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Nicki Broichhausen"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  copyright = "© 2026 Nicki Broichhausen"
+  description = "Personal site of Nicki Broichhausen: space systems, computer vision and robotics."
+
+[params.author]
+  name = "Nicki Broichhausen"
+  headline = "Computer vision & robotics for space"
+  bio = "Master's student in Satellite Technology and Advanced Space Systems"
+  links = [
+    { email = "mailto:Nicki_Broichhausen@outlook.com" },
+    { github = "https://github.com/NickiBroichhausen" },
+    { linkedin = "https://www.linkedin.com/in/nicki-leon-broichhausen" },
+  ]
