@@ -10,18 +10,20 @@ My research interests are robust visual perception and state estimation for robo
 **Real-time visual odometry on a micro aerial vehicle**\
 German Aerospace Center (DLR), Institute of Robotics and Mechatronics, Munich (12/2025 – 10/2026)
 
+{{< figure src="Granite-VO-dashboard.png" alt="Rviz2 Dashboard" caption="Rviz2 Dashboard Created by Me to Debug the VO in Real-Time" >}}
+
 - Analyzed the information content of the optimizer's Hessian to locate erroneous information gain, so the odometry outputs an accurate uncertainty estimate.
 - Designed a keyframe selection strategy based on relative negative entropy, derived from the optimization Hessian, and showed analytically and on Mars-analog flight data that it outperforms state-of-the-art strategies.
 
 ## Publications
 
-**Fly Higher and Further – Robust Stereo Visual Odometry for MAVs in Planetary Exploration Scenarios**\
+[**Fly Higher and Further – Robust Stereo Visual Odometry for MAVs in Planetary Exploration Scenarios**](https://elib.dlr.de/229277/)\
 N. Broichhausen\*, J. Quell\*, M. G. Müller, J. Jung, R. Triebel, W. Stürzl\
-*Under review at the IEEE International Conference on Robotics and Automation (ICRA 2027)*, 2026
+*Under review at the IEEE International Conference on Robotics and Automation (ICRA 2027)*, 2026. [Preprint](https://elib.dlr.de/229277/)
 
-**A Case Study of CLTP14: How Knowledge from the PRELUDE Satellite is Used to Educate the Next Generation of Space Leaders**\
+[**A Case Study of CLTP14: How Knowledge from the PRELUDE Satellite is Used to Educate the Next Generation of Space Leaders**](https://doi.org/10.14459/2026md1857501)\
 N. Broichhausen, M. Yamazaki, M. Schmidt\
-*Proceedings of the 5th Symposium on Space Educational Activities (SSEA 2026)*, 2026
+*Proceedings of the 5th Symposium on Space Educational Activities (SSEA 2026)*, 2026. [PDF](https://doi.org/10.14459/2026md1857501)
 
 \* equal contribution
 
