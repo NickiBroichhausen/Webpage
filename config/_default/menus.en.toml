@@ -9,9 +9,14 @@
   weight = 20
 
 [[main]]
+  name = "Teaching"
+  pageRef = "teaching"
+  weight = 30
+
+[[main]]
   name = "CV"
   pageRef = "cv"
-  weight = 30
+  weight = 90
 
 [[footer]]
   name = "Contact"
