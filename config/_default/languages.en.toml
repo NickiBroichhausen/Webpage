@@ -13,6 +13,7 @@ title = "Nicki Broichhausen"
 
 [params.author]
   name = "Nicki Broichhausen"
+  image = "img/profile.png"
   headline = "Computer vision & robotics for space"
   bio = "Master's student in Satellite Technology and Advanced Space Systems"
   links = [
