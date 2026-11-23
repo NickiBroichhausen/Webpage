@@ -5,7 +5,7 @@ enableSearch = false
 enableCodeCopy = false
 
 [header]
-  layout = "basic"
+  layout = "fixed-fill"
 
 [footer]
   showMenu = true
